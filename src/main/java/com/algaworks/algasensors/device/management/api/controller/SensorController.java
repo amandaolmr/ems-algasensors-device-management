@@ -20,8 +20,7 @@ public class SensorController {
                 .location(input.getLocation())
                 .protocol(input.getProtocol())
                 .model(input.getModel())
-                .enabled(false) // TESTE-GIT
+                .enabled(false)
                 .build();
     }
 }
-// ALTERACAO_REAL_GIT
